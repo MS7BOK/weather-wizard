@@ -10,7 +10,7 @@ SO THAT I can plan a trip accordingly
 
 
 Screenshots:
-![Screenshot of Application](https://ms7bok.github.io/weather-wizard/assets/screenshot/weather-wizard.png)
+![Screenshot of Application](https://github.com/MS7BOK/weather-wizard/assets/screenshot/weather-wizard.png)
 
 
 
