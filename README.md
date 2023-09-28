@@ -15,7 +15,7 @@ Screenshots:
 
 
 Link of deployed project:
-[https://ms7bok.github.io/weather-wizard/](https://ms7bok.github.io/weather-wizard/)
+[https://ms7bok.github.io/weather-wizard/](https://ms7bok.github.io/weather-wizard)
 
 Link of github project:
 [https://github.com/MS7BOK/weather-wizard](https://github.com/MS7BOK/weather-wizard)
